@@ -150,6 +150,10 @@ h1 > small,
 html {
 	background-color: #eee;
 }
+/* Background image */
+body {
+	background: radial-gradient(ellipse at center center, #fff 10%, #ddd 100%);
+}
 .footer {
 	border-top-color: #d5d5d5;
 	background-color: #e5e5e5;
