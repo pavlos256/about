@@ -169,9 +169,10 @@ html.index .content .thumbnail img {
 /* Fun */
 #photo {
 	transition: transform 1s;
+	transform: scaleX(-1);
 }
 #photo.fun {
-	transform: scaleX(-1);
+	transform: scaleX(1);
 }
 div.lemming {
 	position: fixed;
