@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="200"
+   height="60"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="CurveOut"
+       style="overflow:visible">
+      <path
+         d="m -5.4129913,-5.0456926 c 2.76,0 4.99999999,2.24 4.99999999,5.00000002 0,2.75999998 -2.23999999,4.99999998 -4.99999999,4.99999998"
+         transform="scale(0.6,0.6)"
+         id="path4098"
+         style="fill:none;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="RazorWire"
+       style="overflow:visible">
+      <path
+         d="m 0.02272727,-0.74009011 0,1.4375 -7.78124997,2.31250001 18.4374997,0 -7.1874997,-2.31250001 0,-1.4375 7.2499997,-2.15624999 -18.4687497,0 7.74999997,2.15624999 z"
+         transform="scale(0.8,0.8)"
+         id="path4143"
+         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path3932"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-992.36218)"
+     id="layer1">
+    <image
+       xlink:href="data:image/png;base64,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
+bxwe7wAAAABJRU5ErkJggg==
+"
+       x="10"
+       y="992.36218"
+       width="190"
+       height="43"
+       id="image3134" />
+    <path
+       d="m 56.396459,36.559257 c 0,0 -18.389852,20.799245 -52.8936657,2.538327 0,0 8.4573617,0.431853 14.9980997,-4.517894"
+       transform="translate(0,992.36218)"
+       id="path3137"
+       style="fill:none;stroke:#ff0101;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:none" />
+    <path
+       d="m 3.625,1031.6122 c 0,0 4.950063,4.2821 5.423097,11.9589"
+       id="path4911"
+       style="fill:none;stroke:#ff0101;stroke-width:1.79999995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+  </g>
+</svg>
