@@ -143,6 +143,11 @@ h1 > small,
 	}
 }
 
+/* About page */
+.about .content p {
+	text-align: justify;
+}
+
 /*
  * Color adjustments
  */
@@ -173,6 +178,19 @@ html.index .content .thumbnail img {
 }
 #photo.fun {
 	transform: scaleX(1);
+}
+#dontclickme {
+	position: absolute;
+	top: 110px;
+	left: 148px;
+	opacity: 1;
+	transition-duration: 1s;
+	transition-property: top, opacity;
+	transition-timing-function: cubic-bezier(0.0, 0.0, 0.58, 1.0);
+}
+#dontclickme.stay_above {
+	top: -200px;
+	opacity: 0;
 }
 div.lemming {
 	position: fixed;
