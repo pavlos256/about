@@ -42,14 +42,20 @@ body > .navbar .brand {
 	padding-left: 0;
 	margin-left: 20px;
 	float: right;
+}
+body > .navbar .brand > h1 {
+	font-size: 20px;
+	line-height: inherit;
+	margin: 0;
 	font-weight: bold;
-	color: #000;
-	text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.125);
+	color: #999;
+	text-shadow: 0 1px 0 rgba(0,0,0,.1), 0 0 30px rgba(255,255,255,.125);
 	-webkit-transition: all .2s linear;
 	-moz-transition: all .2s linear;
 	transition: all .2s linear;
 }
-body > .navbar .brand:hover {
+body > .navbar .brand:hover > h1 {
+	color: #fff;
 	text-decoration: none;
 	text-shadow: 0 1px 0 rgba(255,255,255,.1), 0 0 30px rgba(255,255,255,.4);
 }
@@ -86,14 +92,15 @@ body > .navbar .brand:hover {
 /*
  *
  */
-h1 {
+h2 {
 	text-shadow: 1px 1px 3px #888;
+	font-size: 38.5px;
 }
-h1 > small,
-.page-header > h1 > span {
+h2 > small,
+.page-header > h2 > span {
 	text-shadow: 1px 1px 2px #bbb;
 }
-.page-header > h1 > span {
+.page-header > h2 > span {
 	color: #999;
 	font-size: 0.8em;
 	padding: 0.1em;
